@@ -20,8 +20,10 @@ Files within `.specify/scripts/` are utilities referenced by the agent prompts.
 Start using slash commands with your AI agent:
  1. /speckit.constitution - Establish project principles
  1. /speckit.specify - Create baseline specification
+ 1. /speckit.clarify - Optionally clarify open design decisions
  1. /speckit.plan - Create implementation plan
  1. /speckit.tasks - Generate actionable tasks
+ 1. /speckit.analyze - Optionally analyze the plan and tasks for consistency
  1. /speckit.implement - Execute implementation
 
 ## /speckit.specify
