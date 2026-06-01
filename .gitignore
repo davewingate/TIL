@@ -1,0 +1,11 @@
+.DS_Store
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
